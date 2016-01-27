@@ -1,0 +1,15 @@
+{
+  "name": "webpack-es6-config",
+  "version": "1.0.0",
+  "description": "A simple tools to create ES6 specific Webpack config",
+  "main": "index.js",
+  "scripts": {
+    "start": "node test.js"
+  },
+  "author": "Mathieu ANCELIN",
+  "license": "MIT",
+  "peerDependencies": {
+    "babel-loader": "^6.2.0",
+    "webpack": "^1.12.0"
+  }
+}
